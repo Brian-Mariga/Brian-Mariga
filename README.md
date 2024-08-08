@@ -16,7 +16,7 @@ Brian Mariga
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brian-Mariga&theme=radical&show_icons=true" alt="Github Stats"/>
 
-![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brian-Mariga&theme=gotham&layout=compact)
+![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrianMariga&theme=gotham&layout=compact)
 <br/>
 
 # Tech Stacks
