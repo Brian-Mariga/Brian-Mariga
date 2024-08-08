@@ -14,7 +14,7 @@ Brian Mariga
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Brian-Mariga&theme=gotham">
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brian-Mariga&theme=radical&show_icons=true" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Brian-Mariga&theme=radical&show_icons=true" alt="Github Stats"/><br/>
 
 ![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrianMariga&theme=gotham&layout=compact)
 <br/>
